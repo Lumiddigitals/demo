@@ -1,0 +1,27 @@
+div {
+    /* background: #ff6347; */
+    width: 280px;
+    padding: 20px;
+    display: inline-block;
+}
+
+/* selection by class */
+.firstdiv {
+    background: tomato;
+}
+#seconddiv {
+    background: gainsboro;
+}
+.thirddiv{
+    background:gold;
+}
+
+.parentdiv {
+    display: block;
+    /* background: black; */
+    width: 90%;
+    /* height: 200px; */
+    margin: 0 auto;
+    text-align: center;
+    padding: 0;
+}
